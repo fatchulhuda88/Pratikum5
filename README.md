@@ -133,10 +133,3 @@ Jika `k` di input dan  `lower()` digunakan untuk mengkonversi input yang dimasuk
 Flowcardnya:
 
 ![Output](ss.png)
-</p># Pratikum5
-# Pratikum5
-
-
-c.png h.png k.png t.png u.png s.png i.png dictonary.py Drawing11.vsdx
-
-# Pratikum5
