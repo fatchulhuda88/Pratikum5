@@ -37,7 +37,7 @@ Untuk **nilai akhir** (`n_akhir`) , di buat berdasarkan operasi dari variabel `n
 **Output :**
 
 
-![Output]((t).png)
+![Output](t).png)
 
 
 ### 2. Menampilkan Input Data
@@ -57,7 +57,7 @@ Data dalam perulangan `for` di ambil dari variabel dictionary `daftar` pada bagi
 **Output :**
 
 
-![Output]((l).png)
+![Output](l).png)
 
 
 ### 3. Mengubah Data
@@ -84,7 +84,7 @@ Berikut kondisi yang digunakan untuk memasukan pilihan :
 **Output :**
 
 
-![Output]((u).png)
+![Output](u).png)
 
 
 ### 4. Mencari Data
@@ -101,7 +101,7 @@ Perbandingan untuk mencari data yang akan diubah sama seperti cara mengubah data
 **Output :**
 
 
-![Output]((c).png)
+![Output](c).png)
 
 
 ### 5. Menghapus data
@@ -118,7 +118,7 @@ Data yang di hapus adalah data yang di input dalam variabel `nama` dimana berisi
 **Output :**
 
 
-![Output]((d).png)
+![Output](d).png)
 
 Jika `k` di input dan  `lower()` digunakan untuk mengkonversi input yang dimasukan ke bentuk ***lower case*** dan Input `k` digunakan berdasarkan perintah yang sudah di masukan dalam keterangan pada fungsi input di bawah ini :
 
@@ -128,11 +128,11 @@ Jika `k` di input dan  `lower()` digunakan untuk mengkonversi input yang dimasuk
 
 **Output :**
 
-![Output]((k).png)
+![Output](k).png)
 
 Flowcardnya:
 
-![Output]((s).png)
+![Output](s).png)
 </p># Pratikum5
 # Pratikum5
 
