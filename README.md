@@ -132,7 +132,7 @@ Jika `k` di input dan  `lower()` digunakan untuk mengkonversi input yang dimasuk
 
 Flowcardnya:
 
-![Output](s.png)
+![Output](ss.png)
 </p># Pratikum5
 # Pratikum5
 
